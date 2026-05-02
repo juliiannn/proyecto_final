@@ -1,0 +1,9 @@
+com\proyectoiub\entidades\Persona.class
+com\proyectoiub\entidades\Profesor.class
+com\proyectoiub\entidades\Horario.class
+com\proyectoiub\entidades\CursoEstudiante.class
+com\proyectoiub\entidades\Aula.class
+com\proyectoiub\entidades\Curso.class
+com\proyectoiub\entidades\Estudiante.class
+com\proyectoiub\infraestructure\DatabaseConfig.class
+com\proyectoiub\Main.class
